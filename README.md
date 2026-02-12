@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/EdmundoMarquez/EdmundoMarquez/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=EdmundoMarquez&theme=tokyonight&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
+
 <!--
 **EdmundoMarquez/EdmundoMarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
